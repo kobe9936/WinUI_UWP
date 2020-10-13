@@ -1,0 +1,65 @@
+﻿<Page x:ConnectionId='1' x:Class="AppUIBasics.ControlPages.ColorPickerPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="using:AppUIBasics"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d">
+    <StackPanel>
+        <local:ControlExample x:ConnectionId='2' x:Name="Example1" HeaderText="ColorPicker Properties." HorizontalContentAlignment="Left">
+
+            <ColorPicker x:ConnectionId='3' x:Name="colorPicker"
+                                                                                   
+                                                                                        
+                                                                                                        
+                                                                                  
+                                                                            
+                                                                                        
+                                                                                               />
+
+            <local:ControlExample.Options>
+                <StackPanel Width="250" Margin="0,-5,0,0">
+                    <CheckBox x:ConnectionId='4' Content="IsMoreButtonVisible" x:Name="moreBtn" IsChecked="False"/>
+                    <CheckBox x:ConnectionId='5' Content="IsColorSliderVisible" x:Name="colorSlider" IsChecked="True" />
+                    <CheckBox x:ConnectionId='6' Content="IsColorChannelTextInputVisible" x:Name="colorChannelInput" IsChecked="True" />
+                    <CheckBox x:ConnectionId='7' Content="IsHexInputVisible" x:Name="hexInput" IsChecked="True" />
+                    <CheckBox x:ConnectionId='8' Content="Alpha Enabled" x:Name="alpha" />
+                    <CheckBox x:ConnectionId='9' Content="IsAlphaSliderVisible" x:Name="alphaSlider" IsChecked="True"
+                                                                                            />
+                    <CheckBox x:ConnectionId='10' Content="IsAlphaTextInputVisible" x:Name="alphaTextInput"
+                                                                                            IsChecked="True" />
+                    <StackPanel Margin="0,24,0,0">
+                        <TextBlock Text="ColorPicker applied on a Rectangle" />
+                        <Rectangle x:ConnectionId='11' x:Name="previewRect" Height="100" Margin="0,12,0,0" StrokeThickness="1"
+                                        Stroke="{ThemeResource TextControlBorderBrush}">
+                            <Rectangle.Fill>
+                                <SolidColorBrush x:ConnectionId='12'                                                 />
+                            </Rectangle.Fill>
+                        </Rectangle>
+                    </StackPanel>
+                </StackPanel>
+            </local:ControlExample.Options>
+
+            <local:ControlExample.Xaml>
+                <x:String xml:space="preserve">
+&lt;ColorPicker
+      IsMoreButtonVisible="$(IsMoreButtonVisible)"
+      IsColorSliderVisible="$(IsColorSliderVisible)"
+      IsColorChannelTextInputVisible="$(IsColorChannelTextInputVisible)"
+      IsHexInputVisible="$(IsHexInputVisible)"
+      IsAlphaEnabled="$(IsAlphaEnabled)"
+      IsAlphaSliderVisible="$(IsAlphaSliderVisible)"
+      IsAlphaTextInputVisible="$(IsAlphaTextInputVisible)" /&gt;
+</x:String>
+            </local:ControlExample.Xaml>
+            <local:ControlExample.Substitutions>
+                <local:ControlExampleSubstitution x:ConnectionId='13' Key="IsMoreButtonVisible"                                                />
+                <local:ControlExampleSubstitution x:ConnectionId='14' Key="IsColorSliderVisible"                                                    />
+                <local:ControlExampleSubstitution x:ConnectionId='15' Key="IsColorChannelTextInputVisible"                                                          />
+                <local:ControlExampleSubstitution x:ConnectionId='16' Key="IsHexInputVisible"                                                 />
+                <local:ControlExampleSubstitution x:ConnectionId='17' Key="IsAlphaEnabled"                                              />
+                <local:ControlExampleSubstitution x:ConnectionId='18' Key="IsAlphaSliderVisible"                                                    />
+                <local:ControlExampleSubstitution x:ConnectionId='19' Key="IsAlphaTextInputVisible"                                                       />
+            </local:ControlExample.Substitutions>
+        </local:ControlExample>
+    </StackPanel>
+</Page>
+

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vk99GQok46cCoDlLVzvZuT+CotXSRRlWwbLzREqA1uL+wARSRED7e45Q0gkhtxHUL2ebRazqBW8kkJX2TSRSfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kobe9\\.nuget\\packages\\colorcode.core\\2.0.5\\colorcode.core.2.0.5.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\colorcode.uwp\\2.0.5\\colorcode.uwp.2.0.5.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.3\\microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.8\\microsoft.net.uwpcoreruntimesdk.2.2.8.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.8\\microsoft.netcore.universalwindowsplatform.6.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\microsoft.winui\\3.0.0-preview2.200713.0\\microsoft.winui.3.0.0-preview2.200713.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.3\\runtime.win10-arm.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\\2.2.8\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk.2.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.compiler\\2.2.3\\runtime.win10-arm64.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-arm64.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform\\6.2.8\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform.6.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x64.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x64.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\\2.2.8\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk.2.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\\6.2.8\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform.6.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform\\6.2.8\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform.6.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x86.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.8\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.8\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.8.nupkg.sha512",
+    "C:\\Users\\kobe9\\.nuget\\packages\\win2d.uwp\\1.25.0\\win2d.uwp.1.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}

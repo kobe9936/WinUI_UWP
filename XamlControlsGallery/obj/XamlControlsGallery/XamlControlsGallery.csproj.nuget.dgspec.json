@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj",
+        "projectName": "XamlControlsGallery",
+        "projectPath": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj",
+        "packagesPath": "C:\\Users\\kobe9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\obj\\XamlControlsGallery\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kobe9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17134"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17134": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17134": {
+          "dependencies": {
+            "ColorCode.UWP": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            },
+            "Microsoft.WinUI": {
+              "target": "Package",
+              "version": "[3.0.0-preview2.200713.0, )"
+            },
+            "Win2D.uwp": {
+              "target": "Package",
+              "version": "[1.25.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

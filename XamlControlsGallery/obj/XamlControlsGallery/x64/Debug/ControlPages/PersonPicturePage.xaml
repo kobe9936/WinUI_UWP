@@ -1,0 +1,41 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="AppUIBasics.ControlPages.PersonPicturePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppUIBasics"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel>
+        <local:ControlExample x:ConnectionId='2' x:Name="Example1" HeaderText="Select different looks for the person picture.">
+
+            <local:ControlExample.Example>
+                <PersonPicture x:ConnectionId='3' x:Name="personPicture" Height="300"
+                VerticalAlignment="Top"
+                ProfilePicture="{Binding IsChecked, ElementName=ProfileImageRadio, Converter={StaticResource booleanToValueConverter}, ConverterParameter='https://docs.microsoft.com/windows/uwp/contacts-and-calendar/images/shoulder-tap-static-payload.png'}"
+                                                                                                                                                                 
+                                                                                                                                                      />
+            </local:ControlExample.Example>
+
+            <local:ControlExample.Options>
+                <StackPanel>
+                    <RadioButton x:ConnectionId='4' x:Name="ProfileImageRadio" GroupName="Profile" Content="Profile Image" IsChecked="True" />
+                    <RadioButton x:ConnectionId='5' x:Name="DisplayNameRadio" GroupName="Profile" Content="Display Name" />
+                    <RadioButton x:ConnectionId='6' x:Name="InitialsRadio" GroupName="Profile" Content="Initials" />
+                </StackPanel>
+            </local:ControlExample.Options>
+            <local:ControlExample.Xaml>
+                <x:String>
+                    &lt;PersonPicture $(ProfilePicture)$(DisplayName)$(Initials) /&gt;
+                </x:String>
+            </local:ControlExample.Xaml>
+            <local:ControlExample.Substitutions>
+                <local:ControlExampleSubstitution x:ConnectionId='7' Key="ProfilePicture"                                                                     Value="ProfilePicture=&quot;https://docs.microsoft.com/windows/uwp/contacts-and-calendar/images/shoulder-tap-static-payload.png&quot;" />
+                <local:ControlExampleSubstitution x:ConnectionId='8' Key="DisplayName"                                                                    Value="DisplayName=&quot;Jane Doe&quot;" />
+                <local:ControlExampleSubstitution x:ConnectionId='9' Key="Initials"                                                                 Value="Initials=&quot;SB&quot;" />
+            </local:ControlExample.Substitutions>
+        </local:ControlExample>
+    </StackPanel>
+</Page>
+

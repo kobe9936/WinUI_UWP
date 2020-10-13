@@ -1,0 +1,1 @@
+C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\XamlControlsGallery.csproj;x64

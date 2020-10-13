@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\kobe9\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\in\\"
+/ref:"C:\Users\kobe9\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.3\tools\x64\ilc\lib\Private\\"
+/ref:"C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\in"
+/ref:"C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\kobe9\.nuget\packages\microsoft.net.native.compiler\2.2.3\tools\csc"
+/out:"C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\intermediate\AppUIBasics.Sg"
+"@C:\Users\kobe9\source\repos\Xaml-Controls-Gallery\XamlControlsGallery\obj\XamlControlsGallery\x64\Release\ilc\intermediate\AppUIBasics.Sg\ComputedSerializationInput.txt"

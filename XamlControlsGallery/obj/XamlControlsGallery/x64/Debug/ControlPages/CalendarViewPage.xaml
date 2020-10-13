@@ -1,0 +1,65 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="AppUIBasics.ControlPages.CalendarViewPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:AppUIBasics"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel>
+        <local:ControlExample x:ConnectionId='2' x:Name="ExampleAccessories" HeaderText="A basic calendar view.">
+
+            <CalendarView x:ConnectionId='3'
+                x:Name="Control1"
+                VerticalAlignment="Top"
+                                                                                           
+                                                                                               
+                                                                                               
+                SelectionMode="Single" />
+
+            <local:ControlExample.Options>
+                <StackPanel Margin="0,-5,0,0">
+                    <CheckBox x:ConnectionId='4' x:Name="isGroupLabelVisible" Content="IsGroupLabelVisible" IsChecked="True" />
+                    <CheckBox x:ConnectionId='5' x:Name="isOutOfScopeEnabled" Content="IsOutOfScopeEnabled" IsChecked="True" />
+                    <ComboBox x:ConnectionId='6'
+                        x:Name="selectionMode"
+                        Margin="0,10,0,0"
+                        Header="SelectionMode"
+                        SelectedValue="Single"
+                                                                         >
+                        <x:String>None</x:String>
+                        <x:String>Single</x:String>
+                        <x:String>Multiple</x:String>
+                    </ComboBox>
+
+                    <ComboBox x:ConnectionId='7' x:Name="calendarIdentifier" Margin="0,10,0,0" Header="CalendarIdentifier" Width="220" />
+
+                    <ComboBox x:ConnectionId='8' x:Name="calendarLanguages" Header="Language" Margin="0,10,0,0" Width="220"
+                              DisplayMemberPath="Name" SelectedIndex="0" SelectedValuePath="Code"
+                                                                                   />
+
+                </StackPanel>
+            </local:ControlExample.Options>
+
+            <local:ControlExample.Xaml>
+                <x:String xml:space="preserve">
+&lt;CalendarView 
+    SelectionMode="$(SelectionMode)" 
+    IsGroupLabelVisible="$(IsGroupLabelVisible)"
+    IsOutOfScopeEnabled="$(IsOutOfScopeEnabled)"
+    Language="$(Language)"
+    CalendarIdentifier="$(CalendarIdentifier)" /&gt;
+                </x:String>
+            </local:ControlExample.Xaml>
+            <local:ControlExample.Substitutions>
+                <local:ControlExampleSubstitution x:ConnectionId='9' Key="SelectionMode"                                                           />
+                <local:ControlExampleSubstitution x:ConnectionId='10' Key="IsGroupLabelVisible"                                                                   />
+                <local:ControlExampleSubstitution x:ConnectionId='11' Key="IsOutOfScopeEnabled"                                                                   />
+                <local:ControlExampleSubstitution x:ConnectionId='12' Key="Language"                                                 />
+                <local:ControlExampleSubstitution x:ConnectionId='13' Key="CalendarIdentifier"                                                           />
+            </local:ControlExample.Substitutions>
+        </local:ControlExample>
+    </StackPanel>
+</Page>
+
