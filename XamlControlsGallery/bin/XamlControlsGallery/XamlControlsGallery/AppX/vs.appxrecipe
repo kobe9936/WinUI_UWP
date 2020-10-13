@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-13T16:09:10.572</Modified>
+      <Modified>2020-10-13T16:16:25.537</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -1129,411 +1129,411 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.902</Modified>
+      <Modified>2020-10-13T16:16:24.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ConnectedAnimationPages\CardPage.xbf">
       <PackagePath>ConnectedAnimationPages\CardPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.902</Modified>
+      <Modified>2020-10-13T16:16:24.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ConnectedAnimationPages\CollectionPage.xbf">
       <PackagePath>ConnectedAnimationPages\CollectionPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.902</Modified>
+      <Modified>2020-10-13T16:16:24.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ConnectedAnimationPages\DetailedInfoPage.xbf">
       <PackagePath>ConnectedAnimationPages\DetailedInfoPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\AnimatedVisualPlayerPage.xbf">
       <PackagePath>ControlPages\AnimatedVisualPlayerPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\CompactSizingPage.xbf">
       <PackagePath>ControlPages\CompactSizingPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\DataGridPage.xbf">
       <PackagePath>ControlPages\DataGridPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\DropDownButtonPage.xbf">
       <PackagePath>ControlPages\DropDownButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\TabViewPage.xbf">
       <PackagePath>ControlPages\TabViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.799</Modified>
+      <Modified>2020-10-13T16:16:24.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\TeachingTipPage.xbf">
       <PackagePath>ControlPages\TeachingTipPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\WebView2Page.xbf">
       <PackagePath>ControlPages\WebView2Page.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\SplitButtonPage.xbf">
       <PackagePath>ControlPages\SplitButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.803</Modified>
+      <Modified>2020-10-13T16:16:24.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ImplicitTransitionPage.xbf">
       <PackagePath>ControlPages\ImplicitTransitionPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.805</Modified>
+      <Modified>2020-10-13T16:16:24.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\InputValidationPage.xbf">
       <PackagePath>ControlPages\InputValidationPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.807</Modified>
+      <Modified>2020-10-13T16:16:24.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlExample.xbf">
       <PackagePath>ControlExample.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.809</Modified>
+      <Modified>2020-10-13T16:16:24.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\AppBarButtonPage.xbf">
       <PackagePath>ControlPages\AppBarButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.810</Modified>
+      <Modified>2020-10-13T16:16:24.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\AppBarPage.xbf">
       <PackagePath>ControlPages\AppBarPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\AppBarSeparatorPage.xbf">
       <PackagePath>ControlPages\AppBarSeparatorPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\AppBarToggleButtonPage.xbf">
       <PackagePath>ControlPages\AppBarToggleButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.812</Modified>
+      <Modified>2020-10-13T16:16:24.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ConnectedAnimationPage.xbf">
       <PackagePath>ControlPages\ConnectedAnimationPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\AutoSuggestBoxPage.xbf">
       <PackagePath>ControlPages\AutoSuggestBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\BorderPage.xbf">
       <PackagePath>ControlPages\BorderPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ButtonPage.xbf">
       <PackagePath>ControlPages\ButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.816</Modified>
+      <Modified>2020-10-13T16:16:24.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\CalendarDatePickerPage.xbf">
       <PackagePath>ControlPages\CalendarDatePickerPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\CalendarViewPage.xbf">
       <PackagePath>ControlPages\CalendarViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\CanvasPage.xbf">
       <PackagePath>ControlPages\CanvasPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.903</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\CheckBoxPage.xbf">
       <PackagePath>ControlPages\CheckBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.819</Modified>
+      <Modified>2020-10-13T16:16:24.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ColorPickerPage.xbf">
       <PackagePath>ControlPages\ColorPickerPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ColorPaletteResourcesPage.xbf">
       <PackagePath>ControlPages\ColorPaletteResourcesPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ComboBoxPage.xbf">
       <PackagePath>ControlPages\ComboBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\CommandBarFlyoutPage.xbf">
       <PackagePath>ControlPages\CommandBarFlyoutPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\CommandBarPage.xbf">
       <PackagePath>ControlPages\CommandBarPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.823</Modified>
+      <Modified>2020-10-13T16:16:24.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ContentDialogExample.xbf">
       <PackagePath>ControlPages\ContentDialogExample.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ContentDialogPage.xbf">
       <PackagePath>ControlPages\ContentDialogPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\DatePickerPage.xbf">
       <PackagePath>ControlPages\DatePickerPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\EasingFunctionPage.xbf">
       <PackagePath>ControlPages\EasingFunctionPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.826</Modified>
+      <Modified>2020-10-13T16:16:24.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\FlipViewPage.xbf">
       <PackagePath>ControlPages\FlipViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.827</Modified>
+      <Modified>2020-10-13T16:16:24.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\FlyoutPage.xbf">
       <PackagePath>ControlPages\FlyoutPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\GridPage.xbf">
       <PackagePath>ControlPages\GridPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\GridViewPage.xbf">
       <PackagePath>ControlPages\GridViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.833</Modified>
+      <Modified>2020-10-13T16:16:24.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\HyperlinkButtonPage.xbf">
       <PackagePath>ControlPages\HyperlinkButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ImagePage.xbf">
       <PackagePath>ControlPages\ImagePage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.834</Modified>
+      <Modified>2020-10-13T16:16:24.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ItemsRepeaterPage.xbf">
       <PackagePath>ControlPages\ItemsRepeaterPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.837</Modified>
+      <Modified>2020-10-13T16:16:24.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ListBoxPage.xbf">
       <PackagePath>ControlPages\ListBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ListViewPage.xbf">
       <PackagePath>ControlPages\ListViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.840</Modified>
+      <Modified>2020-10-13T16:16:24.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\MenuBarPage.xbf">
       <PackagePath>ControlPages\MenuBarPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\MenuFlyoutPage.xbf">
       <PackagePath>ControlPages\MenuFlyoutPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.844</Modified>
+      <Modified>2020-10-13T16:16:24.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\NavigationViewPage.xbf">
       <PackagePath>ControlPages\NavigationViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.849</Modified>
+      <Modified>2020-10-13T16:16:24.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\PageTransitionPage.xbf">
       <PackagePath>ControlPages\PageTransitionPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.904</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ParallaxViewPage.xbf">
       <PackagePath>ControlPages\ParallaxViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\PasswordBoxPage.xbf">
       <PackagePath>ControlPages\PasswordBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\PersonPicturePage.xbf">
       <PackagePath>ControlPages\PersonPicturePage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\PivotPage.xbf">
       <PackagePath>ControlPages\PivotPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ProgressBarPage.xbf">
       <PackagePath>ControlPages\ProgressBarPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ProgressRingPage.xbf">
       <PackagePath>ControlPages\ProgressRingPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\PullToRefreshPage.xbf">
       <PackagePath>ControlPages\PullToRefreshPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.854</Modified>
+      <Modified>2020-10-13T16:16:24.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\RadioButtonPage.xbf">
       <PackagePath>ControlPages\RadioButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.855</Modified>
+      <Modified>2020-10-13T16:16:24.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\RatingsControlPage.xbf">
       <PackagePath>ControlPages\RatingsControlPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\RelativePanelPage.xbf">
       <PackagePath>ControlPages\RelativePanelPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\RepeatButtonPage.xbf">
       <PackagePath>ControlPages\RepeatButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\RichEditBoxPage.xbf">
       <PackagePath>ControlPages\RichEditBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.859</Modified>
+      <Modified>2020-10-13T16:16:24.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\RichTextBlockPage.xbf">
       <PackagePath>ControlPages\RichTextBlockPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.860</Modified>
+      <Modified>2020-10-13T16:16:24.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ScrollViewerPage.xbf">
       <PackagePath>ControlPages\ScrollViewerPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.862</Modified>
+      <Modified>2020-10-13T16:16:24.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\SemanticZoomPage.xbf">
       <PackagePath>ControlPages\SemanticZoomPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\SliderPage.xbf">
       <PackagePath>ControlPages\SliderPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\SoundPage.xbf">
       <PackagePath>ControlPages\SoundPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\SplitViewPage.xbf">
       <PackagePath>ControlPages\SplitViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.866</Modified>
+      <Modified>2020-10-13T16:16:24.177</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\StackPanelPage.xbf">
       <PackagePath>ControlPages\StackPanelPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\SwipePage.xbf">
       <PackagePath>ControlPages\SwipePage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.870</Modified>
+      <Modified>2020-10-13T16:16:24.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\TextBlockPage.xbf">
       <PackagePath>ControlPages\TextBlockPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.905</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\TextBoxPage.xbf">
       <PackagePath>ControlPages\TextBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ThemeTransitionPage.xbf">
       <PackagePath>ControlPages\ThemeTransitionPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.873</Modified>
+      <Modified>2020-10-13T16:16:24.183</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\TimePickerPage.xbf">
       <PackagePath>ControlPages\TimePickerPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ToggleButtonPage.xbf">
       <PackagePath>ControlPages\ToggleButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ToggleSplitButtonPage.xbf">
       <PackagePath>ControlPages\ToggleSplitButtonPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ToggleSwitchPage.xbf">
       <PackagePath>ControlPages\ToggleSwitchPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ToolTipPage.xbf">
       <PackagePath>ControlPages\ToolTipPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\TreeViewPage.xbf">
       <PackagePath>ControlPages\TreeViewPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\StandardUICommandPage.xbf">
       <PackagePath>ControlPages\StandardUICommandPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.879</Modified>
+      <Modified>2020-10-13T16:16:24.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\VariableSizedWrapGridPage.xbf">
       <PackagePath>ControlPages\VariableSizedWrapGridPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\ViewBoxPage.xbf">
       <PackagePath>ControlPages\ViewBoxPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\XamlCompInteropPage.xbf">
       <PackagePath>ControlPages\XamlCompInteropPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.882</Modified>
+      <Modified>2020-10-13T16:16:24.193</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ControlPages\XamlUICommandPage.xbf">
       <PackagePath>ControlPages\XamlUICommandPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ItemPage.xbf">
       <PackagePath>ItemPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.886</Modified>
+      <Modified>2020-10-13T16:16:24.197</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\ItemTemplates.xbf">
       <PackagePath>ItemTemplates.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\AllControlsPage.xbf">
       <PackagePath>AllControlsPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\Navigation\NavigationRootPage.xbf">
       <PackagePath>Navigation\NavigationRootPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.890</Modified>
+      <Modified>2020-10-13T16:16:24.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\HomePage.xbf">
       <PackagePath>HomePage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\NewControlsPage.xbf">
       <PackagePath>NewControlsPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\PageHeader.xbf">
       <PackagePath>PageHeader.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.894</Modified>
+      <Modified>2020-10-13T16:16:24.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SamplePages\SampleCompactSizingPage.xbf">
       <PackagePath>SamplePages\SampleCompactSizingPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SamplePages\SamplePage1.xbf">
       <PackagePath>SamplePages\SamplePage1.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.906</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SamplePages\SamplePage2.xbf">
       <PackagePath>SamplePages\SamplePage2.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SamplePages\SamplePage4.xbf">
       <PackagePath>SamplePages\SamplePage4.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SamplePages\SamplePage3.xbf">
       <PackagePath>SamplePages\SamplePage3.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SamplePages\SampleSettingsPage.xbf">
       <PackagePath>SamplePages\SampleSettingsPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SamplePages\SampleStandardSizingPage.xbf">
       <PackagePath>SamplePages\SampleStandardSizingPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SearchResultsPage.xbf">
       <PackagePath>SearchResultsPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SectionPage.xbf">
       <PackagePath>SectionPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\SettingsPage.xbf">
       <PackagePath>SettingsPage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.901</Modified>
+      <Modified>2020-10-13T16:16:24.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\TabViewPages\MyTabContentControl.xbf">
       <PackagePath>TabViewPages\MyTabContentControl.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\TabViewPages\TabViewWindowingSamplePage.xbf">
       <PackagePath>TabViewPages\TabViewWindowingSamplePage.xbf</PackagePath>
-      <Modified>2020-10-13T16:09:08.907</Modified>
+      <Modified>2020-10-13T16:16:24.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -1549,7 +1549,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobe9\source\repos\WinUI_UWP\XamlControlsGallery\bin\x64\Debug\Core\AppUIBasics.exe">
       <PackagePath>AppUIBasics.exe</PackagePath>
-      <Modified>2020-10-13T16:09:10.561</Modified>
+      <Modified>2020-10-13T16:16:25.518</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
