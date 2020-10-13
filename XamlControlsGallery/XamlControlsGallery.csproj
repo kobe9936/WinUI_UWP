@@ -104,12 +104,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Assets\4-platform-image_1920x520-no-text.png" />
-    <Content Include="Assets\banner.png" />
-    <Content Include="Assets\CoWoS_InFO_SoIC.png" />
-    <Content Include="Assets\dedicatedFoundry_technology_logic_1920x350.png" />
-    <Content Include="Assets\dedicatedFoundry_technology_specialty_1920x400.png" />
     <Content Include="Assets\SampleMedia\MirrorPCConsent.svg" />
-    <Content Include="Assets\TSMC.png" />
     <Content Include="Assets\WinUI3Preview.png" />
     <Content Include="SharedContent\cs\Default.rd.xml">
       <Link>Properties\Default.rd.xml</Link>

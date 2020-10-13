@@ -7,7 +7,6 @@ Assets\AppBarButton.png
 Assets\AppBarSeparator.png
 Assets\AppBarToggleButton.png
 Assets\AutoSuggestBox.png
-Assets\banner.png
 Assets\Border.png
 Assets\Button.png
 Assets\CalendarView.png
@@ -23,11 +22,8 @@ Assets\CompactSizing.png
 Assets\ConnectedAnimations.png
 Assets\Contacts.txt
 Assets\ContentDialog.png
-Assets\CoWoS_InFO_SoIC.png
 Assets\DarkGray.png
 Assets\DatePicker.png
-Assets\dedicatedFoundry_technology_logic_1920x350.png
-Assets\dedicatedFoundry_technology_specialty_1920x400.png
 Assets\DefaultIcon.png
 Assets\DropdownButton.png
 Assets\EasingFunctions.png
@@ -173,7 +169,6 @@ Assets\ToggleSwitch.png
 Assets\ToolTip.png
 Assets\Transitions.png
 Assets\TreeView.png
-Assets\TSMC.png
 Assets\updated.png
 Assets\VariableSizedWrapGrid.png
 Assets\ViewBox.png

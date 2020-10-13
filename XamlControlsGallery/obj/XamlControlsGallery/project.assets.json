@@ -6918,11 +6918,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj",
+      "projectUniqueName": "C:\\Users\\kobe9\\source\\repos\\WinUI_UWP\\XamlControlsGallery\\XamlControlsGallery.csproj",
       "projectName": "XamlControlsGallery",
-      "projectPath": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj",
+      "projectPath": "C:\\Users\\kobe9\\source\\repos\\WinUI_UWP\\XamlControlsGallery\\XamlControlsGallery.csproj",
       "packagesPath": "C:\\Users\\kobe9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\obj\\XamlControlsGallery\\",
+      "outputPath": "C:\\Users\\kobe9\\source\\repos\\WinUI_UWP\\XamlControlsGallery\\obj\\XamlControlsGallery\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

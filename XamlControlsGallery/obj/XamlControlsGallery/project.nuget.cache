@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vk99GQok46cCoDlLVzvZuT+CotXSRRlWwbLzREqA1uL+wARSRED7e45Q0gkhtxHUL2ebRazqBW8kkJX2TSRSfA==",
+  "dgSpecHash": "Dg64O86guB6kOJAC458KfrSav8V21oTVK0RG+8GFpjSw9U6XroH292dBCMflh2VW5T9vjdKg039XtE5Ws7+d2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kobe9\\source\\repos\\Xaml-Controls-Gallery\\XamlControlsGallery\\XamlControlsGallery.csproj",
+  "projectFilePath": "C:\\Users\\kobe9\\source\\repos\\WinUI_UWP\\XamlControlsGallery\\XamlControlsGallery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kobe9\\.nuget\\packages\\colorcode.core\\2.0.5\\colorcode.core.2.0.5.nupkg.sha512",
     "C:\\Users\\kobe9\\.nuget\\packages\\colorcode.uwp\\2.0.5\\colorcode.uwp.2.0.5.nupkg.sha512",
